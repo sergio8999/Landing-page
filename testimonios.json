@@ -1,0 +1,11 @@
+{
+    "testimonios":[
+        {"nombre":"Ruben","texto":"Sitio magnífico","fecha":"20/10/2018"},
+        {"nombre":"Sara","texto":"Genial! Personal muy amable!!!","fecha":"15/02/2020"},
+        {"nombre":"Fernando","texto":"Sitio espectacular, excelente circuito y una perfecta atención ","fecha":"05/06/2019"},
+        {"nombre":"Jose","texto":"Trato genial, todo correcto","fecha":"10/12/2019"},
+        {"nombre":"Francisco","texto":"Muy buena gente todo perfecto","fecha":"07/04/2020"},
+        {"nombre":"Juan","texto":"Trato inmejorable, gran calidad de circuito y karts. Totalmente recomendable","fecha":"10/04/2019"},
+        {"nombre":"Alejandro","texto":"Trato muy familiar y mucha atencion","fecha":"07/08/2019"}
+    ]
+}

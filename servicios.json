@@ -1,0 +1,7 @@
+{
+    "servicios":[
+        {"titulo":"Los karts","texto":"Elige entre nuestros Karts monoplaza a biplaza. También puedes competir con el tuyo propio","link":"https://kpsracing.es/","imagen":"https://image.jimcdn.com/app/cms/image/transf/dimension=4096x4096:format=jpg/path/s2acba6c178eb0b2a/image/i5462c2e4fd31d924/version/1590059627/image.jpg"},
+        {"titulo":"La pista","texto":"Un circuito divertido y técnico para pilotos principiantes y para los mas avanzados","link":"https://www.autofacil.es/competicion/2014/11/27/mejores-circuitos-kart-espana/21711.html","imagen":"https://quehacerenvigo.es/wp-content/uploads/elementor/thumbs/Karts-Porri%C3%B1o-2010-o7dwp6rf7oyedpyaavfrjrti9u4rnxcdv6t12ictg4.jpg"},
+        {"titulo":"Instalaciones","texto":"Bar-restaurante, parking gratuito, tienda...","link":"http://racingdakartjerez.es/instalaciones/","imagen":"https://cdn.elviajerofisgon.com/wp-content/uploads/2016/11/2-15-750x390.jpg"}
+    ]
+}
